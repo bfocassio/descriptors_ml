@@ -10,4 +10,4 @@ The following packages are needed:
  * dscribe
  * sklearn
  
- These can be installed via: pip install <package name>
+ These can be installed via: pip install \<package name\>
